@@ -1,4 +1,4 @@
 # Memory-Game
---A simple memory game using React
+--This is a simple memory game using React
 
--Run *_npm start_* in the terminal play the game !!
+-Run *_npm start_* in the terminal to play the game !!
