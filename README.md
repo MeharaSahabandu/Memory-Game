@@ -1,2 +1,2 @@
 # Memory-Game
---React
+--A simple memory game using React
